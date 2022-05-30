@@ -1,7 +1,4 @@
 $(document).ready(function(){
-    //6419cec605a71b6105ac4f7778466482
-    //https://api.openweathermap.org/data/2.5/weather?q=seoul&appid=6419cec605a71b6105ac4f7778466482
-
     var cityName = []; //버튼 클릭시 또는 검색바에서 입력 후 엔터를 누를 시, 도시명 데이터를 수집한다.
     console.log(cityName); //[]
 

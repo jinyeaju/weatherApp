@@ -14,7 +14,6 @@ font-family: 'Poppins', sans-serif;
 
 section{
     width: 100%; height: 100vh;
-    /* background: rgb(206,169,255); */
     background: linear-gradient(90deg, rgba(206,169,255,1) 0%, rgba(29,113,195,1) 60%, rgba(0,212,255,1) 100%);
     position: relative;
 }
